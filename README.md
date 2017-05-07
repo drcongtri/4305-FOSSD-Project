@@ -16,6 +16,5 @@ Bài tập lớn môn Phát triển phần mềm nguồn mở
 – Có khả năng mở rộng tùy theo mục đích, nhu cầu.
 
 * Nhược điểm
-
 – Vì chương trình đơn giản nên dùng text file để lưu trữ nên bảo mật không cao, tốn tài nguyên khi phải đọc file liên tục.
 – Hơi tốm RAM một ít khi chạy, nên xóa dữ liệu chương trình thường xuyên để tiết kiệm bộ nhớ RAM.
