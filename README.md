@@ -1,6 +1,12 @@
 # 4305-FOSSD-Project
 Bài tập lớn môn Phát triển phần mềm nguồn mở
 
+Thành viên tham gia:
+
+Nguyễn Đức Tiến | 0948.278.451 | ductien96.vn@gmail.com 
+
+Trịnh Đình Phúc |0121.658.5084 | 
+
 Đề tài: Chương trình lên lịch công việc
 
 * Tính năng chính:
